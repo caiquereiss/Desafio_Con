@@ -1,0 +1,9 @@
+//Informa ao sequelize quais são as credencias de acesso na linguagem javascript
+//Aqui a gente passa o caminho do config(database.js)
+
+const path= require('path');
+
+module.exports={
+  config: path.resolve(__dirname, 'src', 'config', 'database.js'),
+  'migrations-path': path.resolve(__dirname, 'src', 'database', 'migrations'),
+};
