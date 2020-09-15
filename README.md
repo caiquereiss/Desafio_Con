@@ -17,24 +17,25 @@ Para iniciar o front-end: yarn start
       - Email
       - Senha
   
-    # Perfil(tela principal)
+  # Perfil (tela principal)
+    
         - Identificação do usuario 
         - Botões para os cadastros
       
-      #Categorias
+   # Categorias
         - Nome da categoria Cadastrada
         
-      #Cadastrar Categorias
+   # Cadastrar Categorias
         -Nome da categoria 
         
-      #Cadastrar Produtos 
+   # Cadastrar Produtos 
       
         - Nome do produto
         - Nome da categoria já cadastrada.
         
         
-        O CRUD utilizando os metodos de requisição HTTP:
-        GET, POST, PUT, DELETE
+        
+ 
         
         
       
